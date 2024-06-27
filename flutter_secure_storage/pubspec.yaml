@@ -17,6 +17,8 @@ flutter:
         pluginClass: FlutterSecureStoragePlugin
       linux:
         default_package: flutter_secure_storage_linux
+      tvos:
+        default_package: flutter_secure_storage_tvos  
       macos:
         default_package: flutter_secure_storage_macos
       web:
